@@ -1,0 +1,15 @@
+ALERTAS AUTOMÁTICOS POR E-MAIL — SIGE IP
+
+1. No SIGE IP: Configurações > Escolher arquivo para backup automático.
+2. Salve como: C:\SIGE-IP\dados\SIGE_IP_BACKUP_AUTOMATICO.json
+3. Execute Configurar_Alertas.bat e informe SMTP, remetente, destinatários e o mesmo caminho do backup.
+4. Execute Executar_Teste_Agora.bat para validar o envio.
+5. Clique com o botão direito em Instalar_Agendamento.bat e escolha Executar como administrador.
+
+O Windows enviará o resumo diariamente, no horário escolhido. O computador precisa estar ligado. Se estiver desligado no horário, a opção StartWhenAvailable tentará executar quando ele iniciar.
+
+A senha do e-mail é armazenada criptografada pelo Windows e só funciona para o mesmo usuário do Windows no mesmo computador.
+
+Gmail: use smtp.gmail.com, porta 587 e senha de aplicativo.
+Microsoft 365/Outlook: smtp.office365.com, porta 587. Algumas empresas bloqueiam SMTP autenticado; nesse caso o administrador de TI precisa liberar.
+Skymail: solicite ao suporte/administrador os dados SMTP corretos.

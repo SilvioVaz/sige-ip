@@ -1,0 +1,21 @@
+SIGE IP ENTERPRISE 1.0
+
+Esta versão reorganiza o sistema em oito áreas principais sem remover os módulos e sem alterar o banco IndexedDB SIGE_IP_LOCAL_DB.
+
+MENU PRINCIPAL:
+- Dashboard Executivo
+- Meu Dia
+- Pesquisa Global
+- Planejamento Estratégico
+- Pessoas e Sucessão
+- Gestão e Rotina
+- Jurídico e Minerário
+- Documentos e Governança
+- Relatórios e Indicadores
+- Administração
+
+PRESERVAÇÃO:
+Todos os módulos anteriores continuam no código e são acessados pelos painéis consolidados. O banco local anterior é mantido. Antes da atualização, exporte backup quando possível.
+
+GITHUB:
+Envie o conteúdo desta pasta para a raiz do repositório. Abra com ?enterprise=1 e use Ctrl+Shift+R. O novo service worker usa estratégia network-first para páginas e evita que ícones sejam servidos como HTML.

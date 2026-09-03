@@ -1,0 +1,18 @@
+SIGE-IP ENTERPRISE 1.8 — CENTRAL DE GOVERNANÇA E EXECUÇÃO
+
+Base: Enterprise 1.7. Nenhum módulo ou registro anterior foi removido.
+
+NOVO:
+- Central de Governança e Execução no menu Comando.
+- Central do Silvio: Decidir / Delegar / Cobrar / Validar.
+- Central dos Gestores por responsável e atrasos.
+- Registro mestre governanceCommitments, criado por migração não destrutiva a partir de APW, delegações, tarefas, decisões, estruturação comercial e roadmap estratégico.
+- Origem e sourceId preservam o vínculo com o registro anterior; os módulos anteriores continuam existentes.
+- Rituais e indicadores de execução integrados à Central.
+- Gestão por exceção: atrasados, sem dono, sem definição de pronto, decisões e validações.
+- Painel Reunião APW 09/09 passa a consumir prioritariamente os compromissos mestres da Central de Governança marcados como APW 09/09.
+- Mantida a classificação Entregue / Atrasado + nova data / Não vai acontecer e a pauta efetiva só com não entregues.
+- Campo cycleCount preparado para controle de reincidência e regra de 3 ciclos.
+
+IMPORTANTE:
+A migração é aditiva. Os registros históricos dos módulos antigos não são apagados nem substituídos.

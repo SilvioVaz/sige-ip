@@ -1,0 +1,16 @@
+SIGE IP ENTERPRISE 1.1 — HISTÓRICO DE SUCESSÃO E GESTORES
+
+Esta versão preserva o banco SIGE_IP_LOCAL_DB e todos os módulos da Enterprise 1.0.
+
+ACRÉSCIMOS:
+- Perfis dos gestores dentro de Pessoas e Sucessão.
+- Histórico recente do plano de sucessão empresarial.
+- Cargos críticos e riscos de continuidade.
+- Planos de sucessão e transferência de conhecimento.
+- Projetos de descentralização da decisão e melhoria da comunicação.
+
+PRESERVAÇÃO:
+Os registros são adicionados somente quando ainda não existem. Nenhum registro já cadastrado é apagado ou substituído.
+
+OBSERVAÇÃO:
+As informações foram consolidadas a partir do histórico recuperável das conversas. Campos sem definição expressa, como nomes de sucessores e datas finais, permanecem como “A definir” ou sem prazo para não criar informações inexistentes.

@@ -1,0 +1,5 @@
+SIGE-IP ENTERPRISE 2.0 — REUNIÕES DE GOVERNANÇA
+
+Montada sobre o pacote COMPLETO da Enterprise 1.9. Nenhum arquivo auxiliar anterior foi removido.
+
+IMPORTANTE: os dados digitados ficam no IndexedDB do navegador (SIGE_IP_LOCAL_DB), não dentro do ZIP. Para preservar dados existentes, use a nova versão no mesmo navegador e na mesma origem/endereço. Não limpe dados do site antes de confirmar backup.

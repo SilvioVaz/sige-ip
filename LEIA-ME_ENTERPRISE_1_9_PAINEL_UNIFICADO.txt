@@ -1,0 +1,21 @@
+SIGE-IP ENTERPRISE 1.9 — PAINEL UNIFICADO DE ESTRATÉGIA, GOVERNANÇA E EXECUÇÃO
+
+Principais alterações:
+1. Central de Governança, Silvio APW/Execução, Estruturação Comercial e Planejamento Estratégico reunidos em um único painel navegável por cartões.
+2. A antiga tela fixa “Reunião APW 09/09” deixa de aparecer no menu principal. Seu conteúdo histórico permanece preservado.
+3. Novo cadastro “Reuniões de Governança”, com data, horário, envolvidos, escopo, pauta, decisões e próximos passos.
+4. A pauta estratégica pode reunir temas de governança, OKRs, projetos, tarefas críticas, riscos, APW, estruturação comercial, financeiro, cargos críticos, sucessão, jurídico e minerário.
+5. Resumos e indicadores passam a priorizar abertura dos registros e ações de Concluir, Alterar e Excluir. O resumo “Cargos críticos”, por exemplo, abre a lista dos cargos e permite gerir cada registro.
+6. Central do Silvio mantém Decidir / Delegar / Cobrar / Validar, com acesso direto aos itens.
+7. Migração aditiva: os módulos e informações das versões anteriores permanecem no banco.
+8. Foi preservada a base IndexedDB existente; não limpe os dados do navegador durante a atualização.
+
+INSTALAÇÃO/ATUALIZAÇÃO:
+- Faça uma cópia de segurança da pasta e, se possível, exporte um backup pelo próprio SIGE-IP antes de atualizar.
+- Extraia o ZIP completo em nova pasta.
+- Se estiver publicado no mesmo domínio/origem do SIGE-IP atual, substitua os arquivos da aplicação sem limpar IndexedDB.
+- O service worker recebeu nova chave de cache para reduzir risco de carregar a interface antiga.
+
+VALIDAÇÃO:
+- O JavaScript do index.html foi validado com node --check.
+- Foi tentado um teste headless com Chromium no ambiente de geração, mas o processo do navegador não concluiu dentro do limite; portanto, recomenda-se teste funcional no navegador antes de substituir a versão de produção.

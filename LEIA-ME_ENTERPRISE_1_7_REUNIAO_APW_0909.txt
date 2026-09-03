@@ -1,0 +1,17 @@
+SIGE-IP ENTERPRISE 1.7 — REUNIÃO APW 09/09
+
+Base: Enterprise 1.6 APW + Estruturação Comercial.
+
+NOVO PAINEL: “Reunião APW 09/09”
+- reúne automaticamente os compromissos APW com vencimento até 09/09/2026;
+- permite marcar cada item como ENTREGUE, ATRASADO + NOVA DATA ou NÃO VAI ACONTECTECER;
+- itens entregues saem automaticamente da pauta efetiva;
+- atrasos exigem nova data;
+- mostra responsáveis ainda sem resposta para cobrança prévia;
+- destaca decisões pendentes;
+- identifica os três itens antigos sujeitos à regra de “decisão revogada na prática”;
+- monta automaticamente a pauta final da reunião;
+- gera texto de cobrança de 07/09 para copiar e enviar aos responsáveis;
+- preserva os demais módulos, dados e estrutura da versão 1.6.
+
+Uso recomendado: abrir o painel em 07/09, registrar as respostas dos donos e usar a pauta automática em 09/09.

@@ -1,0 +1,22 @@
+SIGE IP ENTERPRISE 1.6 — APW + ESTRUTURAÇÃO COMERCIAL
+
+BASE
+Construída sobre a Enterprise 1.5, que por sua vez preserva a Enterprise 1.4 Todos os Painéis e Relatórios Completos.
+
+NOVO NESTA VERSÃO
+- Painel Estruturação Comercial com plano de 90 dias.
+- 15 ações comerciais estruturantes com responsável, fase, prazo, definição de pronto e indicador.
+- Matriz RACI Comercial inicial.
+- Matriz de Alçadas em três faixas: verde, amarela e vermelha.
+- Desenho do painel comercial único: resultado, meta, funil, carteira e risco.
+- Integração Comercial x Produção/PCP x Estoque x Logística x Crédito.
+- Regra de CRM como fonte oficial e fluxo Funil > Forecast > Pedido > Faturamento.
+- Dinâmica do Conselho Comercial com status executivo + um tema profundo por mês.
+- Painel pessoal de Silvio dividido em Decidir, Delegar, Cobrar e Validar.
+- Preservação dos módulos APW, rituais, financeiro e roadmap da versão anterior.
+
+IMPORTANTE
+Os limites numéricos de desconto, prazo, frete, crédito e outras alçadas não foram inventados. O sistema deixa a estrutura pronta para preenchimento após aprovação formal da política comercial.
+
+DADOS
+A migração é aditiva. Os registros existentes no IndexedDB são preservados. Antes de qualquer troca de versão, mantenha uma cópia da pasta anterior e, quando possível, exporte o backup.

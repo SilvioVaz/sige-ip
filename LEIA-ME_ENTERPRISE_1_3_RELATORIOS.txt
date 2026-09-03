@@ -1,0 +1,10 @@
+SIGE IP ENTERPRISE 1.3 — RELATÓRIOS COMPLETOS
+
+Alteração exclusiva no módulo de relatórios.
+
+- Todos os relatórios exibem todos os campos cadastrados dos registros abrangidos.
+- O Relatório Executivo apresenta o resumo e, em seguida, todos os registros de todos os módulos.
+- Relatórios específicos apresentam os dados completos, incluindo observações, prazos, responsáveis, evidências, metadados de conclusão e nomes dos anexos.
+- Senhas, chaves criptográficas, IV e salt não são revelados por segurança.
+- A impressão/PDF foi ajustada para A4, sem limites de rolagem e com quebras de página mais adequadas.
+- Nenhum módulo, regra, dado, formulário ou funcionalidade fora de Relatórios foi alterado.

@@ -1,0 +1,23 @@
+SIGE IP ENTERPRISE 1.5 — APW / EXECUÇÃO ESTRATÉGICA
+
+BASE UTILIZADA
+- SIGE_IP_Enterprise_1_4_Todos_Paineis_Relatorios_Completos
+- Mantidos os módulos, painéis, relatórios, IndexedDB, PWA e dados iniciais da versão 1.4.
+
+NOVO PAINEL
+- Silvio • APW / Execução
+
+NOVOS MÓDULOS
+- Compromissos APW
+- Rituais de Gestão
+- Entregas Financeiras
+- Roadmap Estratégico (10 projetos prioritários propostos)
+
+CONTEÚDO INCORPORADO
+- Registro de Compromissos APW de 26/08/2026
+- Considerações APW sobre Rituais de Gestão de 01/09/2026
+- Entregas da Função Financeira de 01/09/2026
+- Síntese do histórico do planejamento estratégico: papel de Silvio, fases de implantação, Morro Azul/Joel, BI, Jurídico, descentralização, processos e disciplina de execução.
+
+ATENÇÃO
+Esta versão foi construída sobre a Enterprise 1.4 solicitada, justamente para evitar dependência do backup da versão posterior. Os registros APW são inseridos por migração idempotente: uma única vez, preservando dados já existentes no banco local desta mesma origem/instalação.

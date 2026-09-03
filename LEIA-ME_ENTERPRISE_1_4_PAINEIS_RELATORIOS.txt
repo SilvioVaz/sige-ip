@@ -1,0 +1,19 @@
+SIGE IP ENTERPRISE 1.4 — RELATÓRIOS POR PAINEL
+
+ALTERAÇÃO EXCLUSIVA NO MÓDULO DE RELATÓRIOS:
+- Todos os painéis e conteúdos
+- Estratégia completo
+- Pessoas completo
+- Gestão completo
+- Jurídico completo
+- Conhecimento completo
+- Saídas e Indicadores completo
+- Administração completo
+
+Cada relatório imprime os módulos, registros, campos preenchidos, anexos, status, prazos, conclusões e informações correspondentes ao painel selecionado.
+
+O relatório Todos os painéis e conteúdos reúne integralmente todos os grupos.
+
+Por segurança, senhas e elementos criptográficos continuam ocultos.
+
+Nenhum dado, módulo, formulário ou regra operacional foi alterado.

@@ -1,0 +1,20 @@
+SIGE IP ENTERPRISE 1.2 — CONCLUSÕES E RELATÓRIO
+
+ALTERAÇÕES
+- Todo registro que possui Alterar e Excluir também possui o botão ✓ Concluir.
+- A conclusão não exclui nem arquiva definitivamente o registro.
+- O sistema salva status, data/hora da conclusão, usuário local e data de atualização.
+- Registros com progresso passam automaticamente a 100%.
+- Cada conclusão gera lançamento na Auditoria.
+- O relatório “Itens e tarefas concluídos” reúne conclusões de todos os módulos, com filtros por empresa, data, responsável, módulo e observações/evidências disponíveis.
+
+PRESERVAÇÃO
+- Mantém o banco SIGE_IP_LOCAL_DB.
+- Mantém todos os dados, módulos, anexos, senhas, planejamento Google, sucessão e gestores.
+- Não limpe o IndexedDB nem os dados do site ao atualizar.
+
+ATUALIZAÇÃO
+1. Extraia o ZIP.
+2. Envie os arquivos para a raiz do mesmo repositório GitHub.
+3. Aguarde a publicação.
+4. Abra com ?enterprise=12 e use Ctrl+Shift+R.
